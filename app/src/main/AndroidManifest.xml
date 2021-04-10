@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cooking.merge">
+
+    <uses-feature android:name="android.hardware.camera2" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_orange"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_orange_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TabLayoutKotlin"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".SearchDetailsActivity"></activity>
+        <activity android:name=".web.Webf" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".welcome_page.Welcomef">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".food_fragment.FoodDetailsf"
+            android:label="Details"
+            android:launchMode="singleTop" />
+    </application>
+
+</manifest>

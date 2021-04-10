@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">FAvvvv</string>
+    <string name="easy">便當</string>
+    <string name="sidedish">配菜</string>
+    <string name="title">title</string>
+    <string name="foodnames">食物名稱</string>
+    <string name="steps">步驟</string>
+    <string name="need_food">/ 材料 /</string>
+    <string name="sauce">/ 調味料 /</string>
+    <string name="company">©橙嗜食驗©</string>
+    <string name="detailimage">detailimage</string>
+    <string name="dsteps">詳細步驟</string>
+    <string name="logo">橙 嗜 食 驗</string>
+    <string name="image">image</string>
+    <string name="fav">收 藏</string>
+    <string name="welcome">welcome</string>
+
+    <string-array name="ingredients">
+        <item>燕麥</item>
+        <item>優格</item>
+        <item>吐司</item>
+        <item>蛋</item>
+        <item>雞蛋</item>
+        <item>牛奶</item>
+        <item>蔥</item>
+        <item>青蔥</item>
+        <item>洋蔥</item>
+        <item>雞胸</item>
+        <item>雞胸肉</item>
+        <item>雞腿</item>
+        <item>雞腿肉</item>
+        <item>去骨雞腿</item>
+        <item>去骨雞腿肉</item>
+        <item>菇</item>
+        <item>香菇</item>
+        <item>蘑菇</item>
+        <item>菇類</item>
+    </string-array>
+
+    <string-array name="燕麥">
+        <item>燕麥優格杯</item>
+        <item>培根蛋早餐燕麥粥</item>
+    </string-array>
+    <string-array name="優格">
+        <item>燕麥優格杯</item>
+        <item>五分鐘咖哩優格鮮蔬三明治</item>
+        <item>微笑香蕉蛋糕</item>
+        <item>迷你優格牛奶司康</item>
+    </string-array>
+    <string-array name="果醬">
+        <item>草莓蛋土司</item>
+    </string-array>
+    <string-array name="蛋">
+        <item>草莓蛋吐司</item>
+        <item>法式吐司</item>
+        <item>蔥花蛋捲</item>
+        <item>3分鐘微波法式吐司</item>
+        <item>微笑香蕉蛋糕</item>
+        <item>法式蘋果克拉芙緹</item>
+        <item>巧克力夏威夷豆餅乾</item>
+        <item>迷你優格牛奶司康</item>
+    </string-array>
+    <string-array name="吐司">
+        <item>草莓蛋吐司</item>
+        <item>全麥鮪魚蛋吐司</item>
+        <item>法式吐司</item>
+        <item>酪梨豆腐青醬吐司</item>
+        <item>五分鐘咖哩優格鮮蔬三明治</item>
+        <item>3分鐘微波法式吐司</item>
+    </string-array>
+    <string-array name="牛奶">
+        <item>法式吐司</item>
+        <item>3分鐘微波法式吐司</item>
+    </string-array>
+    <string-array name="蔥">
+        <item>培根蛋早餐燕麥粥</item>
+        <item>蔥花蛋捲</item>
+        <item>蔥香味噌雞</item>
+        <item>安東燉雞</item>
+    </string-array>
+    <string-array name="雞胸">
+        <item>蔥香味噌雞</item>
+    </string-array>
+    <string-array name="去骨雞腿肉">
+        <item>三杯菇菇雞</item>
+        <item>安東燉雞</item>
+    </string-array>
+    <string-array name="菇">
+        <item>三杯菇菇雞</item>
+        <item>醬燒雞腿杏鮑菇</item>
+    </string-array>
+    <string-array name="雞腿">
+        <item>迷迭香黑胡椒馬鈴薯雞</item>
+        <item>安東燉雞</item>
+        <item>豉汁彩椒雞球</item>
+    </string-array>
+    <string-array name="水果">
+        <item>蔬果綠拿鐵</item>
+        <item>水果小冰棒</item>
+    </string-array>
+    <string-array name="奶油">
+        <item>微笑香蕉蛋糕</item>
+        <item>法式蘋果克拉芙緹</item>
+        <item>迷你優格牛奶司康</item>
+    </string-array>
+
+</resources>
